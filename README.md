@@ -5,7 +5,7 @@ Disclaimer: Please see the 60 page Super-Peach-Sisters-Spec.pdf to read the enti
 To see what the game looks like in action:
 
 - macOS: You'll need to have XQuartz and freeGLUT installed to run the program.
-    1. Install [XQuartz](https://web.archive.org/web/20220327060726/http://xquartz.org/):
+    1. Install [XQuartz](https://www.xquartz.org):
         1. Click the download link, open the downloaded .dmg file, double-click on XQuartz.pkg, and follow the installation instructions.
         2. Log out and log back in again.
         3. To verify the installation, open a Terminal window and run the command `echo $DISPLAY`. That should produce one line of output that ends with `org.xquartz:0`.
