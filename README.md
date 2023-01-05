@@ -51,5 +51,3 @@ To see what the game looks like in action:
 ![Untitled](How%20to%20Play%20Super%20Peach%20Sisters/Untitled%204.png)
 
 ![Untitled](How%20to%20Play%20Super%20Peach%20Sisters/Untitled%205.png)
-
-Can you beat the game? Discover more hidden features! What happens to a Koopa Troopa (Green Turtle) when you shoot a fire ball at it? How many levels are there to win?
